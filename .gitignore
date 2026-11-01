@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# never commit world data, Minecraft assets or tool output
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.jar
+dh_report.txt
+dh_samples/
+dh_decode_out/
+*.npz
+*.blend
+*.blend1
